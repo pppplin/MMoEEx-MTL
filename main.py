@@ -16,7 +16,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.utils.data import Dataset, DataLoader, TensorDataset
 from torch.utils.tensorboard import SummaryWriter
-from torchmeta.modules import MetaModule
+# from torchmeta.modules import MetaModule
 from collections import OrderedDict
 from datetime import datetime
 from pathlib import Path
